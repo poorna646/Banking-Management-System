@@ -1,0 +1,1 @@
+﻿delegate void TransactionHandler(double amount);
